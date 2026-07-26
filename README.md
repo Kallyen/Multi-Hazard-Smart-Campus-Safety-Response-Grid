@@ -14,7 +14,7 @@ One ESP32 fleet, one MQTT topic, one browser dashboard, zero backend to babysit.
 ![Frontend](https://img.shields.io/badge/frontend-single%20HTML-F59E0B?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
 
-*A joint project of Bots Bangla and TahCreations · University of Frontier Technology, Bangladesh*
+*A joint project of Inependent University Bangladesh · University of Frontier Technology, Bangladesh*
 
 </div>
 
