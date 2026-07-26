@@ -23,8 +23,12 @@ One ESP32 fleet, one MQTT topic, one browser dashboard, zero backend to babysit.
 # Weblite: https://multi-hazard-smart-campus-safety-re-alpha.vercel.app/
 # Password: hozorolurakosabamcu569956
 # MQTT Broker: https://www.hivemq.com/demos/websocket-client/?
-# Subscrption Topic : koba-samsu
-<img width="1901" height="925" alt="image" src="https://github.com/user-attachments/assets/833517bc-8155-4f5a-a8a3-2b05fa05a038" />
+# Subscription Topic: koba-samsu
+<a href="https://multi-hazard-smart-campus-safety-re-alpha.vercel.app/" target="_blank">
+  <img width="1901" height="925" alt="image" src="https://github.com/user-attachments/assets/833517bc-8155-4f5a-a8a3-2b05fa05a038" />
+</a>
+
+[View Live App](https://multi-hazard-smart-campus-safety-re-alpha.vercel.app/)
 
 
 ---
