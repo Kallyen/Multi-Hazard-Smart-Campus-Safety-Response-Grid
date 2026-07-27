@@ -14,7 +14,6 @@ One ESP32 fleet, one MQTT topic, one browser dashboard, zero backend to babysit.
 ![Frontend](https://img.shields.io/badge/frontend-single%20HTML-F59E0B?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
 
-*A joint project of Inependent University Bangladesh · University of Frontier Technology, Bangladesh*
 
 </div>
 
@@ -67,7 +66,7 @@ SCS-RG watches every laboratory on a campus at once and turns a rising sensor re
 
 Each lab carries an ESP32-based sensor pod that samples seven safety-critical variables — combustible gas, carbon monoxide, indoor air quality, open flame, water level, temperature and humidity, and human occupancy. The pod publishes one consolidated JSON packet over MQTT, and a single-file browser dashboard renders the whole campus as a live command board.
 
-There is no server, no database, and no build pipeline between the sensor and the operator. The dashboard is a static HTML file that speaks MQTT directly to the broker over secure WebSockets.
+The dashboard is a static HTML file that speaks MQTT directly to the broker over secure WebSockets.
 
 ---
 
@@ -132,7 +131,7 @@ The tagline on the logo — *Safer Campus. Smarter Response* — is the design b
 - HiveMQ-style connection panel: host / port / path / TLS / client ID / username / password / topic / keep-alive
 - Persistent settings in `localStorage`
 - Light + dark theme, mobile drawer nav, `prefers-reduced-motion` honoured
-- No backend, no database, no build step — one static file
+
 
 ---
 
