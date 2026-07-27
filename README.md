@@ -583,9 +583,6 @@ scs-rg/
 
 ## 14 · Credits
 
-**Project lead · Firmware · Dashboard** — [Tahsan Masum Fahim](https://github.com/tahsan)
-**Ventures** — [Bots Bangla](https://botsbangla.com) *(hardware)* · [TahCreations Digital Solutions](https://tahcreations.com) *(software)*
-**Institution** — Department of Electrical & Electronic Engineering, University of Frontier Technology, Bangladesh
 
 **Built with**
 - [MQTT.js](https://github.com/mqttjs/MQTT.js) — browser MQTT client
