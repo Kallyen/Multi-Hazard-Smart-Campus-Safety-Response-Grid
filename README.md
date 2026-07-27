@@ -541,24 +541,8 @@ scs-rg/
 
 ---
 
-## 12 · Roadmap
 
-- [x] Live MQTT dashboard with dynamic rooms
-- [x] Three-state alert engine with rolling history
-- [x] Password-gated landing page with GSAP scroll choreography
-- [x] Configurable broker (HiveMQ-style connection panel)
-- [ ] Firebase Auth on the access gate
-- [ ] Firestore-backed alert history for post-incident review
-- [ ] Push notifications (web push + FCM)
-- [ ] SMS escalation via Twilio for critical events
-- [ ] Multi-building support with a building/floor picker
-- [ ] Role-based access (viewer / operator / admin)
-- [ ] Predictive anomaly detection on rolling history
-- [ ] Native Android companion app
-
----
-
-## 13 · Troubleshooting
+## 12 · Troubleshooting
 
 **Dashboard shows "Disconnected"**
 - The broker at your configured host is unreachable. Open *Settings → Broker* and verify host / port / path / TLS.
@@ -581,7 +565,7 @@ scs-rg/
 
 ---
 
-## 14 · Credits
+## 13 · Credits
 
 
 **Built with**
